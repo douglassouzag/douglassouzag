@@ -77,6 +77,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassouzag&layout=compact&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassouzag&layout=compact&theme=dark" />
 </a>
----
-
-[website]: https://enzogerola.com/
